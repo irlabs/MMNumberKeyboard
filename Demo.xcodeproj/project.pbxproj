@@ -514,6 +514,7 @@
 				43D19F0E1F53045500ADC97A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
