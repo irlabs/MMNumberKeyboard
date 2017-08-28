@@ -14,6 +14,7 @@ FOUNDATION_EXPORT double MMNumberKeyboardVersionNumber;
 //! Project version string for MMNumberKeyboard.
 FOUNDATION_EXPORT const unsigned char MMNumberKeyboardVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <MMNumberKeyboard/PublicHeader.h>
+// In this header, you should import all the public headers of your framework using statements like
+#import <MMNumberKeyboard/MMNumberKeyboard.h>
 
 
