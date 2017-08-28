@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0830"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BEEDEF0C1D0A5768007D16E2"
+               BlueprintIdentifier = "43D19F021F53045500ADC97A"
                BuildableName = "MMNumberKeyboard.framework"
                BlueprintName = "MMNumberKeyboard"
-               ReferencedContainer = "container:MMNumberKeyboard.xcodeproj">
+               ReferencedContainer = "container:Demo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BEEDEF0C1D0A5768007D16E2"
+            BlueprintIdentifier = "43D19F021F53045500ADC97A"
             BuildableName = "MMNumberKeyboard.framework"
             BlueprintName = "MMNumberKeyboard"
-            ReferencedContainer = "container:MMNumberKeyboard.xcodeproj">
+            ReferencedContainer = "container:Demo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -63,10 +63,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BEEDEF0C1D0A5768007D16E2"
+            BlueprintIdentifier = "43D19F021F53045500ADC97A"
             BuildableName = "MMNumberKeyboard.framework"
             BlueprintName = "MMNumberKeyboard"
-            ReferencedContainer = "container:MMNumberKeyboard.xcodeproj">
+            ReferencedContainer = "container:Demo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
